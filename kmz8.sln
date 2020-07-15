@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmz8", "kmz8\kmz8.csproj", "{39E41D61-0E9B-4C5E-8637-AFEB87E91D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E41D61-0E9B-4C5E-8637-AFEB87E91D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E41D61-0E9B-4C5E-8637-AFEB87E91D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E41D61-0E9B-4C5E-8637-AFEB87E91D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E41D61-0E9B-4C5E-8637-AFEB87E91D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07D8A87F-BB3A-4098-9167-9DB57507934F}
+	EndGlobalSection
+EndGlobal
